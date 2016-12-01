@@ -47,7 +47,7 @@ var DB = {
         });
     },
     get_memes: function(search, callback) {
-        DB.database.collection('memes').find({"related": search}).limit(100000).toArray(function(err,docs) {
+        DB.database.collection('memes').find({"related": { $in: search }}).limit(100000).toArray(function(err,docs) {
             if (docs[0] != null) {
                 callback(docs);
             }
