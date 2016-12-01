@@ -106,11 +106,8 @@ var API = {
     memes: function(req,res) {
         var response = { status: {code:"0",description:":)"} };
 
-        var search = req.query.search.split(" ");
-        var cleanSearch = []
-        search.forEach(function(value){
-            cleanSearch.push(value.trim())
-        });
+        var cleanSearch = req.query.search.split(/\s+/);
+        
 
         if (search != null) {
           var team = API.database.get_memes(cleanSearch, function(meme){
