@@ -106,19 +106,21 @@ var API = {
     memes: function(req,res) {
         var response = { status: {code:"0",description:":)"} };
 
-        var cleanSearch = req.query.search.split(/\s+/);
+        var search = req.query.search;
         
 
         if (search != null) {
-          var team = API.database.get_memes(cleanSearch, function(meme){
-              if (meme) {
-                  response.meme = meme;
-                  API.sendResponse(req,res,response);
-              }
-              else {
-                  API.badDataReceived(req,res);
-              }
-          });
+
+            var cleanSearch = search.split(/\s+/);
+            var team = API.database.get_memes(cleanSearch, function(meme){
+                if (meme) {
+                    response.meme = meme;
+                    API.sendResponse(req,res,response);
+                }
+                else {
+                    API.badDataReceived(req,res);
+                }
+            });
         }
         else {
             API.badDataReceived(req,res);
