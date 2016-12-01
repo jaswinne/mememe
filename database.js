@@ -10,8 +10,6 @@ var DB = {
     this.database = this.mongoose.connection;
     this.database.on('error', console.error.bind(console, 'connection error:'));
 
-    this.crypt = require('crypto');
-
     //schema stuff
     this.memeSchema = {};
     this.meme = {};
