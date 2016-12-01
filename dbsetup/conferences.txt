@@ -1,0 +1,149 @@
+ACC
+*Clemson:Clemson:Tigers
+*Louisville:Louisville:Cardinals
+*Wake Forest:Wake Forest:Demon Deacons
+*Florida St:Florida State:Seminoles
+*Syracuse:Syracuse:Orange
+*NC State:North Carolina State:Wolfpack
+*Boston College:Boston College:Golden Eagles
+*North Carolina:North Carolina:Tar Heels
+*Virginia Tech:Virginia Tech:Hokies
+*Miami FL:Miami (FL):Hurricanes
+*Pittsburgh:Pittsburgh:Panthers
+*Georgia Tech:Georgia Tech:Yellow Jackets
+*Virginia:Virginia:Cavaliers
+*Duke:Duke:Blue Devils
+
+AAC
+*Tulsa:Tulsa:Golden Hurricane
+*Navy:Navy:Midshipmen
+*Houston:Houston:Cougars
+*Memphis:Memphis:Tigers
+*SMU:Southern Methodist:Mustangs
+*Tulane:Tulane:Green Wave
+*Temple:Temple:Owls
+*South Florida:South Florida:Bulls
+*UCF:Central Florida:Knights
+*Cincinnati:Cincinnati:Bearcats
+*East Carolina:East Carolina:Pirates
+*Connecticut:Connecticut:Huskies
+
+Big 12
+*Oklahoma:Oklahoma:Sooners
+*Oklahoma St:Oklahoma State:Cowboys
+*West Virginia:West Virginia:Mountaineers
+*Baylor:Baylor:Bears
+*Kansas St:Kansas State:Wildcats
+*TCU:Texas Christian:Horned Frogs
+*Texas:Texas:Longhorns
+*Texas Tech:Texas Tech:Red Raiders
+*Iowa St:Iowa State:Cyclones
+*Kansas:Kansas:Jayhawks
+
+Big Ten
+*Michigan:Michigan:Wolverines
+*Ohio St:The Ohio State:Buckeyes
+*Penn St:Penn State:Nittany Lions
+*Indiana:Indiana:Hoosiers
+*Maryland:Maryland:Terrapins
+*Michigan St:Michigan State:Spartans
+*Rutgers:Rutgers:Scarlet Knights
+*Minnesota:Minnesota:Golden Gophers
+*Nebraska:Nebraska:Cornhuskers
+*Wisconsin:Wisconsin:Badgers
+*Iowa:Iowa:Hawkeyes
+*Northwestern:Northwestern:Wildcats
+*Illinois:Illinois:Fighting Illini
+*Purdue:Purdue:Boilermakers
+
+Conference USA
+*Louisiana Tech:Louisiana Tech:Bulldogs
+*UT San Antonio:Texas-San Antonio:Roadrunners
+*Southern Miss:Southern Miss:Golden Eagles
+*North Texas:North Texas:Mean Green
+*UTEP:Texas-El Paso:Miners
+*Rice:Rice:Owls
+*WKU:Western Kentucky:Hilltoppers
+*Old Dominion:Old Dominion:Monarchs
+*MTSU:Middle Tennessee State:Blue Raiders
+*Charlotte:Charlotte:49ers
+*Florida Intl:Florida International:Panthers
+*FL Atlantic:Florida Atlantic:Owls
+*Marshall:Marshall:Thundering Herd
+
+Independents
+*Army:Army:Black Knights
+*BYU:BYU:Cougars
+*Notre Dame:Notre Dame:Fighting Irish
+*Massachusetts:UMass:Minutemen
+
+Mid American
+*W Michigan:Western Michigan:Broncos
+*Toledo:Toledo:Rockets
+*E Michigan:Eastern Michigan:Eagles
+*N Illinois:Northern Illinois:Huskies
+*C Michigan:Central Michigan:Chippewas
+*Ball St:Ball State:Cardinals
+*Ohio:Ohio:Bobcats
+*Miami OH:Miami (OH):RedHawks
+*Akron:Akron:Zips
+*Kent:Kent State:Golden Flashes
+*Buffalo:Buffalo:Bulls
+*Bowling Green:Bowling Green:Falcons
+
+Mountain West
+*Wyoming:Wyoming:Cowboys
+*Boise St:Boise State:Broncos
+*New Mexico:New Mexico:Lobos
+*Colorado St:Colorado State:Rams
+*Air Force:Air Force:Falcons
+*Utah St:Utah State:Aggies
+*San Diego St:San Diego State:Aztecs
+*Hawaii:Hawaii:Rainbow Warriors
+*UNLV:UNLV:Runnin' Rebels
+*San Jose St:San Jose State:Spartans
+*Nevada:Nevada:Wolfpack
+*Fresno St:Fresno State:Bulldogs
+
+Pac-12
+*Washington:Washington:Huskies
+*Washington St:Washington State:Cougars
+*Stanford:Stanford:Cardinal
+*California:California:Golden Bears
+*Oregon:Oregon:Ducks
+*Oregon St:Oregon State:Beavers
+*Colorado:Colorado:Buffaloes
+*USC:Southern Cal:Trojans
+*Utah:Utah:Utes
+*Arizona St:Arizona State:Sun Devils
+*UCLA:UCLA:Bruins
+*Arizona:Arizona:Wildcats
+
+SEC
+*Alabama:Alabama:Crimson Tide
+*Auburn:Auburn:Tigers
+*Texas A&M:Texas A&M:Aggies
+*LSU:LSU:Tigers
+*Arkansas:Arkansas:Razorbacks
+*Mississippi St:Mississippi State:Bulldogs
+*Mississippi:Ole Miss:Rebels
+*Florida:Florida:Gators
+*Kentucky:Kentucky:Wildcats
+*Georgia:Georgia:Bulldogs
+*South Carolina:South Carolina:Gamecocks
+*Tennessee:Tennessee:Volunteers
+*Vanderbilt:Vanderbilt:Commodores
+*Missouri:Mizzou:Tigers
+
+Sun Belt
+*Troy:Troy:Trojans
+*Appalachian St:Appalachian State:Mountaineers
+*Arkansas St:Arkansas State:Red Wolves
+*Idaho:Idaho:Vandals
+*Ga Southern:Georgia Southern:Eagles
+*Lafayette,ULL:Louisiana-Lafayette:Ragin' Cajuns
+*ULM:Louisiana-Monroe:Warhawks
+*New Mexico St:New Mexico State:Aggies
+*Georgia St:Georgia State:Panthers
+*South Alabama:South Alabama:Jaguars
+*Texas St:Texas State:Bobcats
